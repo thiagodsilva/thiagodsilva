@@ -1,5 +1,13 @@
 ### Olá !!!!  Me chamo Thiago Estudande de Sistema Da Informação
 
+
+<a href="https://github.com/thiagodsilva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagodsilva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/thiagodsilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagodsilva&repo=convoychat" />
+</a>
+
 <!--
 **thiagodsilva/thiagodsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
